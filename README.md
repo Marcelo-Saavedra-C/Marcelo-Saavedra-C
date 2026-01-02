@@ -23,9 +23,6 @@ Ingeniero en Informática titulado · Junior TI · Interés en Data & Cloud
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32"/>
 
-<!-- SQL (genérico, correcto) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" title="SQL"/>
-</p>
 
 <p align="left">
 <strong>Frameworks:</strong><br>
@@ -43,13 +40,14 @@ Ingeniero en Informática titulado · Junior TI · Interés en Data & Cloud
 
 <p align="left">
 <strong>Visualización de datos:</strong><br>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" width="32" height="32"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="32" height="32" title="Looker Studio"/>
 </p>
+
 
 <p align="left">
 <strong>Cloud & Big Data:</strong><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" height="32"/>
 </p>
 
